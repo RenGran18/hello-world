@@ -1,2 +1,4 @@
 # hello-world
-first github repository
+This is my first entry in the branch
+the name of the branch is crap but anyway, let's proceed with it
+How about a coffe on the moon ?  I heard it must be better than coffee on earth...! 
